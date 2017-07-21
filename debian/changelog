@@ -1,5 +1,5 @@
 wikipedia (1.4.1-1) UNRELEASED; urgency=medium
 
-  * Initial Debian packaging
+  * Initial Debian packaging (closes: #869111)
 
  -- Mycroft Devs <devops@mycroft.ai>  Mon, 17 Jul 2017 14:14:40 -0500
